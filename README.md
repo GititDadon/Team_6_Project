@@ -9,7 +9,7 @@
 | B | breadcrumb, כותרת, כתבה ראשית, footer | css/part-b.css | hero-, ftr- |נועה בן שבת |
 | C | אזור כתבות: שישה כרטיסים באותו גודל | css/part-c.css | grid- | גיתית יעקובי|
 | D | אזור כתבות: שני כרטיסים רחבים + רשימה | css/part-d.css | wide- | יעל מוצא|
-| E | בונוס: pager + "טוען כתבות" | css/part-e.css | pager- | |
+| E | בונוס: pager + "טוען כתבות" | css/part-e.css | pager- |גיתית יעקובי |
 
 בצוות של שלוש: A, B, C. החלק D הוא בונוס.
 
